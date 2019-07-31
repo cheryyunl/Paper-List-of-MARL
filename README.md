@@ -1,5 +1,7 @@
 # Paper-List-of-MARL
-A new paper list for multi-agent reinforcement learning (actively maintained), collecting papers from 2018, focusing on multi-agent system cooperation.
+A new paper list for multi-agent reinforcement learning (actively maintained), collecting papers from 2018.
+
+Todo: AAMAS 2018 and AAMAS 2019
 
 ## ICLR 2019
 
