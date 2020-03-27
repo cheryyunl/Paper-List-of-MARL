@@ -1,7 +1,31 @@
 # Paper-List-of-MARL
-A new paper list for multi-agent reinforcement learning (actively maintained), collecting papers from 2018.
+A new paper list for multi-agent reinforcement learning (actively maintained), collecting papers since 2018.
 
-Todo: AAMAS 2018 and AAMAS 2019
+Reference: https://github.com/LantaoYu/MARL-Papers
+
+## NIPS 2019
+
+- [Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning](https://papers.nips.cc/paper/8402-value-propagation-for-decentralized-networked-deep-multi-agent-reinforcement-learning.pdf)
+
+- [Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control](https://papers.nips.cc/paper/8586-efficient-communication-in-multi-agent-reinforcement-learning-via-variance-based-control)
+
+- [LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning](https://papers.nips.cc/paper/8691-liir-learning-individual-intrinsic-reward-in-multi-agent-reinforcement-learning)
+
+- [A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning](https://papers.nips.cc/paper/9024-a-structured-prediction-approach-for-generalization-in-cooperative-multi-agent-reinforcement-learning)
+
+- [Multi-Agent Common Knowledge Reinforcement Learning](https://papers.nips.cc/paper/9184-multi-agent-common-knowledge-reinforcement-learning)
+
+- [Towards Interpretable Reinforcement Learning Using Attention Augmented Agents](https://papers.nips.cc/paper/9400-towards-interpretable-reinforcement-learning-using-attention-augmented-agents)
+
+- [Biases for Emergent Communication in Multi-agent Reinforcement Learning](https://papers.nips.cc/paper/9470-biases-for-emergent-communication-in-multi-agent-reinforcement-learning)
+
+- [No-Press Diplomacy: Modeling Multi-Agent Gameplay](https://papers.nips.cc/paper/8697-no-press-diplomacy-modeling-multi-agent-gameplay)
+
+- [MAVEN: Multi-Agent Variational Exploration](https://papers.nips.cc/paper/8978-maven-multi-agent-variational-exploration)
+
+- [Learning Fairness in Multi-Agent Systems](https://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems)
+
+  
 
 ## ICLR 2019
 
