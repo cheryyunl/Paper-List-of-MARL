@@ -3,6 +3,46 @@ A new paper list for multi-agent reinforcement learning (actively maintained), c
 
 Reference: https://github.com/LantaoYu/MARL-Papers
 
+To-do: sub-track summary
+
+
+
+### Communication
+
+* [Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control](https://papers.nips.cc/paper/8586-efficient-communication-in-multi-agent-reinforcement-learning-via-variance-based-control)
+* [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)
+* [Biases for Emergent Communication in Multi-agent Reinforcement Learning](https://papers.nips.cc/paper/9470-biases-for-emergent-communication-in-multi-agent-reinforcement-learning)
+* [TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187)
+* [Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ)
+* [Biases for Emergent Communication in Multi-agent Reinforcement Learning](https://papers.nips.cc/paper/9470-biases-for-emergent-communication-in-multi-agent-reinforcement-learning)
+* [Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://openreview.net/forum?id=rye7knCqK7)
+
+### Modelling Other Agents
+
+
+
+## ICLR 2020
+
+#### Oral
+
+- [Posterior sampling for multi-agent reinforcement learning: solving extensive games with imperfect information ](https://openreview.net/forum?id=Syg-ET4FPS)
+
+#### Spotlight
+
+- [Simplified Action Decoder for Deep Multi-Agent Reinforcement Learning ](https://openreview.net/forum?id=B1xm3RVtwB)
+- [Influence-Based Multi-Agent Exploration](https://openreview.net/forum?id=BJgy96EYvr)
+
+#### Poster
+
+- [Multi-agent Reinforcement Learning for Networked System Control](https://openreview.net/forum?id=Syx7A3NFvH)
+- [CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://openreview.net/forum?id=S1lEX04tPr)
+- [Multi-Agent Interactions Modeling with Correlated Policies ](https://openreview.net/forum?id=B1gZV1HYvS)
+- [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning ](https://openreview.net/forum?id=SJxbHkrKDH)
+- [Learning attentional communication for multi-agent cooperation](https://arxiv.org/abs/1805.07733)
+- [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)
+
+
+
 ## NIPS 2019
 
 - [Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning](https://papers.nips.cc/paper/8402-value-propagation-for-decentralized-networked-deep-multi-agent-reinforcement-learning.pdf)
@@ -74,9 +114,9 @@ Reference: https://github.com/LantaoYu/MARL-Papers
 
 ## ICML 2018
 
-- [Competitive Multi-agentInverse Reinforcement Learning with Sub-optimal Demonstrations](https://arxiv.org/abs/1801.02124)
+- [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](https://arxiv.org/abs/1801.02124)
 - [Learning to Act inDecentralized Partially Observable MDPs](http://proceedings.mlr.press/v80/dibangoye18a.html)
-- [Learning PolicyRepresentations in Multiagent Systems](https://arxiv.org/abs/1806.06464)
+- [Learning Policy Representations in Multiagent Systems](https://arxiv.org/abs/1806.06464)
 - [Mean Field Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1802.05438.pdf)
 - [QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1803.11485.pdf)
 
